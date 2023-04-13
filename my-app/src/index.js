@@ -17,7 +17,7 @@ for(let j=0;j<=5;j++){
   console.log(2);
 }
 test = 2;
-if(igd == 1){
+if(igd != 1){
   alert(1)
 }
 
