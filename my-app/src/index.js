@@ -24,6 +24,7 @@ void function i(){
   if(true) return 1;
   else return {ttt:1}
 }
+let te = undefined;
 root.render(
   <React.StrictMode>
     <App />
