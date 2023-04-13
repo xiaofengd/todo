@@ -11,7 +11,7 @@ root.render(
   </React.StrictMode>
 );
 let i = 0;
-let i = 3;
+let i;
 let igd = "yyy";
 for(let i=0;j<=5;j++){
   console.log(2);
