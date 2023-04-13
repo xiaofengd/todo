@@ -12,7 +12,11 @@ root.render(
 );
 let i = 0;
 let i;
-2
+for(let i=0;j<=5;j++){
+  console.log(2);
+  if(i==j)
+    return
+}
 
 root.render(
   <React.StrictMode>
