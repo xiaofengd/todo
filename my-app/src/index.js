@@ -12,6 +12,7 @@ root.render(
 );
 let i = 0;
 let i;
+2
 
 root.render(
   <React.StrictMode>
