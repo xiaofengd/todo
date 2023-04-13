@@ -20,7 +20,7 @@ test = 2;
 if(igd != 1){
   alert(1)
 }
-
+void function i(){}
 root.render(
   <React.StrictMode>
     <App />
