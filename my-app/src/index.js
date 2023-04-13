@@ -11,13 +11,21 @@ root.render(
   </React.StrictMode>
 );
 let i = 0;
-let i;
+let i = 3;
+let igd = "yyy";
 for(let i=0;j<=5;j++){
   console.log(2);
-  if(i==j)
+  if(igd=="yy")
     return
 }
+switch(igd){
+  default:
+    altert("W");
+    case "YYY"
+    return;
+}
 test = 2;
+
 
 root.render(
   <React.StrictMode>
