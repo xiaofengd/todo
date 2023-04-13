@@ -17,6 +17,7 @@ for(let i=0;j<=5;j++){
   if(i==j)
     return
 }
+test = 2;
 
 root.render(
   <React.StrictMode>
