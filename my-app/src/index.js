@@ -15,14 +15,6 @@ let i;
 let igd = "yyy";
 for(let i=0;j<=5;j++){
   console.log(2);
-  if(igd=="yy")
-    return
-}
-switch(igd){
-  default:
-    altert("W");
-    case "YYY"
-    return;
 }
 test = 2;
 
