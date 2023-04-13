@@ -13,7 +13,7 @@ root.render(
 let i = 0;
 let i;
 let igd = "yyy";
-for(let i=0;j<=5;j++){
+for(let j=0;j<=5;j++){
   console.log(2);
 }
 test = 2;
